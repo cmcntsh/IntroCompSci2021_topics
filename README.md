@@ -4,19 +4,19 @@ The purpose of this repository is to list some computer science learning modules
 
 ## Topical pages
 
-* week 1 Introduction and setup
-* week 2 Introduction to computer science
-* week 3 Python in Jupyter Notebooks and VSCode, Deployment Environments
-* week 4 System development methodologies
-* week 5 Programming paradigms
-* week 6 Testing, verification and validation, documentation
-* week 7 Pandas
-* week 8 Data formatting, reporting, and exchange
-* week 9 & 10 Learning HTML, CSS
-* week 11 Javascript programming
-* week 12 Javascript DOM manipulation
-* week 13 & 14 Javascript applications Node.js
-* week 15 FHIR example
+* week 1 Introduction and setup https://github.com/cmcntsh/compSci2021_Setup
+* week 2 Introduction to computer science https://github.com/cmcntsh/compSci2021_IntroCompSci
+* week 3 Python in Jupyter Notebooks and VSCode, Deployment Environments https://github.com/cmcntsh/compSci2021_PythJupVSC
+* week 4 System development methodologies https://github.com/cmcntsh/compSci2021_SystDevMeth
+* week 5 Programming paradigms https://github.com/cmcntsh/compSci2021_ProgParadigm
+* week 6 Testing, verification and validation, documentation https://github.com/cmcntsh/compSci2021_TestVerDoc
+* week 7 Pandas https://github.com/cmcntsh/compSci2021_Pandas
+* week 8 Data formatting, reporting, and exchange https://github.com/cmcntsh/compSci2021_DataFormats
+* week 9 & 10 Learning HTML, CSS https://github.com/cmcntsh/compSci2021_HTML_CSS
+* week 11 Javascript programming https://github.com/cmcntsh/compSci2021_Javascript
+* week 12 Javascript DOM manipulation https://github.com/cmcntsh/compSci2021_JavascriptDOM
+* week 13 & 14 Javascript applications Node.js https://github.com/cmcntsh/compSci2021_Node
+* week 15 FHIR example https://github.com/cmcntsh/compSci2021_FHIR
 
 ## Resources
 
