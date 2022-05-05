@@ -22,3 +22,4 @@ The purpose of this repository is to list some computer science learning modules
 
 * Research Software Engineering with Python - https://alan-turing-institute.github.io/rsd-engineeringcourse/
 * Front end API testing https://reqres.in/
+* How the internet works video: https://www.youtube.com/watch?v=PBWhzz_Gn10&t=8s
