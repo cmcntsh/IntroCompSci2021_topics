@@ -24,3 +24,5 @@ The purpose of this repository is to list some computer science learning modules
 * Front end API testing https://reqres.in/
 * How the internet works video: https://www.youtube.com/watch?v=PBWhzz_Gn10&t=8s
 * database vs data warehouse vs data lake: https://www.youtube.com/watch?v=-bSkREem8dM
+* Cybersecurity
+* Scaled Agile Framework (SAFe)
