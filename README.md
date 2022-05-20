@@ -27,3 +27,4 @@ The purpose of this repository is to list some computer science learning modules
 * Cybersecurity
 * Scaled Agile Framework (SAFe)
 * ITIL https://en.wikipedia.org/wiki/ITIL
+* ITIL v4 https://wiki.en.it-processmaps.com/index.php/ITIL_4
