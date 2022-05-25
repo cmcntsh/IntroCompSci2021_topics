@@ -25,6 +25,24 @@ The purpose of this repository is to list some computer science learning modules
 * How the internet works video: https://www.youtube.com/watch?v=PBWhzz_Gn10&t=8s
 * database vs data warehouse vs data lake: https://www.youtube.com/watch?v=-bSkREem8dM
 * Cybersecurity
+  * The Office of the Chief Information Security Officer (CISO)
+    * Program Strategy, Portfolio Management, Financials, Reporting and Analytics
+  * Cybersecurity Service Management
+    * Cyber regional liaisons, cyber service taxonomy and delivery, cyber education and awareness
+  * Identity and Access Management (IAM)
+    * Access and Governance
+    * Platform Integration and Governance
+  * Cyber Governance, Risk and Compliance (GRC)
+    * Business Continuity and Disaster Recovery
+    * Contract Management/Audits
+    * Governance and Compliance
+    * Cybersecurity Risk
+  * Cyber Threat Management
+    * Architecture and Forensics
+    * Security Operations and Engineering
+    * Fusion Center (Security Operations Center, Incident Response, and Security Vulnerability and Assessment)
+  * Legacy SCL Health Cyber (during 24-month integration)
+    * GRC, IAM, Security Operations, and Vulnerability Management
 * Scaled Agile Framework (SAFe)
 * ITIL https://en.wikipedia.org/wiki/ITIL
 * ITIL v4 https://wiki.en.it-processmaps.com/index.php/ITIL_4
